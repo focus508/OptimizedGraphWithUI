@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="F:\VSProjects\GraghSimulatorAndAnalyze\GlibTest\bin\Debug\GlibTest.dll" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-16" time="13:51:30">
+  <environment nunit-version="2.6.3.13283" clr-version="4.0.30319.34003" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="F:\VSProjects\GraghSimulatorAndAnalyze\GlibTest\bin\Debug" machine-name="ARTOFSOUL" user="ArtOfSoul" user-domain="ARTOFSOUL" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="F:\VSProjects\GraghSimulatorAndAnalyze\GlibTest\bin\Debug\GlibTest.dll" executed="True" result="Success" success="True" time="1.059" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GlibTest" executed="True" result="Success" success="True" time="1.059" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Program" executed="True" result="Success" success="True" time="1.058" asserts="0">
+            <results>
+              <test-case name="GlibTest.Program.KeyMapTest" executed="True" result="Success" success="True" time="0.025" asserts="6" />
+              <test-case name="GlibTest.Program.ListKeyMapComparerTest" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="GlibTest.Program.ListStringComparerTest" executed="True" result="Success" success="True" time="1.025" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

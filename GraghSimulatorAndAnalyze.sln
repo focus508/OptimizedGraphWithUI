@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraghSimulatorAndAnalyze", "GraghSimulatorAndAnalyze\GraghSimulatorAndAnalyze.csproj", "{8089777D-9A7F-4190-B7B9-231FFACE435A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphLib", "GrapLib\GraphLib.csproj", "{77682872-D30C-4B1F-9DC0-3D953807D5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlibTest", "GlibTest\GlibTest.csproj", "{BBFEB376-2C4E-46AD-ABF7-A2528066C2B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8089777D-9A7F-4190-B7B9-231FFACE435A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8089777D-9A7F-4190-B7B9-231FFACE435A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8089777D-9A7F-4190-B7B9-231FFACE435A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8089777D-9A7F-4190-B7B9-231FFACE435A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77682872-D30C-4B1F-9DC0-3D953807D5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77682872-D30C-4B1F-9DC0-3D953807D5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77682872-D30C-4B1F-9DC0-3D953807D5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77682872-D30C-4B1F-9DC0-3D953807D5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFEB376-2C4E-46AD-ABF7-A2528066C2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFEB376-2C4E-46AD-ABF7-A2528066C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFEB376-2C4E-46AD-ABF7-A2528066C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFEB376-2C4E-46AD-ABF7-A2528066C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

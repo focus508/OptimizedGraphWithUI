@@ -1,0 +1,11 @@
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\bin\Debug\GraphLib.dll
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\bin\Debug\GraphLib.pdb
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\bin\Debug\DevComponents.DotNetBar2.dll
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\bin\Debug\DevComponents.TreeGX.dll
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\bin\Debug\DevComponents.DotNetBar2.xml
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.UI.NodeDetailCard.resources
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.csproj.GenerateResource.Cache
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.dll
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.pdb
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.UI.AddVertexForm.resources
+F:\VSProjects\GraghSimulatorAndAnalyze\GrapLib\obj\Debug\GraphLib.csprojResolveAssemblyReference.cache
